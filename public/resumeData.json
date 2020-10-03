@@ -1,0 +1,114 @@
+{
+  "main": {
+    "name": "Riya Srivastava",
+    "occupation": "Computer Application Master's student, Aspiring ReactJS Developer",
+    "description": "Eager to learn new skills",
+    "image": "riya.jpg",
+    "bio": "My name is Riya. Currently I'm working on improving my skills,learning Javascript technologies and focuses on writing clean,elegant and efficient code. ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "srivastava.riya12@gmail.com",
+    "phone": "8789767263",
+    "address": {
+      "street": "Varanasi Bypass road",
+      "city": "Varanasi",
+      "state": "Uttar Pradesh",
+      "zip": "221011"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/riya.shrivastava.921",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/riya-srivastava-005985157",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/riya_svs12/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/RiyaSrivastava12",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Strong in design and integration with intuitive problem-solving skills",
+    "education": [
+      {
+        "school": "Patna Women's College",
+        "degree": "Masters of Computer Apllication",
+        "graduated": "May 2019",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Pietech Solution",
+        "title": "As an intern",
+        "years": "January 15 -May 15",
+        "description": "I worked there as a frontend developer."
+      }
+      
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "20"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "Javascript",
+        "level": "50%"
+      },
+      {
+        "name": "Java",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5",
+        "level": "85%"
+      },
+      {
+        "name": "SQL",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Clothing Web Application",
+        "category": "Built with MEAN (MongoDB,Express, AngularJS, NodeJS)",
+        "image": "clothing.jpeg",
+        "url": ""
+      },
+      {
+        "title": "Assignment And Feedback Monitoring System",
+        "category": "Built with (JSP,SERVLET,HTML5,CSS,BOOTSTRAP,JAVASCRIPT)",
+        "image": "feedback.jpeg",
+        "url": ""
+      }
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      
+      {
+        "text": "Believe in yourself,nothing is impossible.Just do the work in which you are passionate about",
+        "user": "Ashok Srivastava...My father.. My role model "
+      }
+    ]
+  }
+}
