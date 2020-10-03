@@ -1,16 +1,13 @@
 # ReactJS Portfolio Template      
 
-## 👇 WATCH THIS FIRST 👇
-## https://tinyurl.com/customizeReactPortfolio
+
 
 ![ReactJS Resume Website Template](resume-screenshot.png?raw=true "ReactJS Resume Website Template")
 
-## <a href="https://compassionate-leakey-e9b16b.netlify.app/">LIVE DEMO</a>
+## <a href="https://cocky-albattani-c58e7e.netlify.app/">LIVE DEMO</a>
 
 ## Description
-This is a ReactJS based personal resume website template for participants of The 6 Figure JavaScript ReactJS Challenge by Clever 
-
-## Make it Your Own!
+This is a ReactJS based personal resume website template 
 #### PREREQUISITES:
 - Sign up for a Netlify account <a href='https://www.netlify.com'>HERE</a>
 - Install Node JS in your computer <a href='https://nodejs.org/en/'>HERE</a>
