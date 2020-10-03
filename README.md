@@ -2,7 +2,7 @@
 
 
 
-![ReactJS Resume Website Template](Portfolio.png?raw=true "ReactJS Resume Website Template")
+![ReactJS Resume Website Template](portfolio.png?raw=true "ReactJS Resume Website Template")
 
 ## <a href="https://cocky-albattani-c58e7e.netlify.app/">LIVE DEMO</a>
 
